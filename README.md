@@ -1,0 +1,2 @@
+code.ipynb -> Application of resampling and Replication of the analysis
+sim.py -> Simulation of the model used. Estimations with resmapling.
